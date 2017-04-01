@@ -1,6 +1,6 @@
 {
     "name": "sagsoz06/profile",
-    "description": "",
+    "description": "Profile module",
     "type": "asgard-module",
     "license": "MIT", 
     "require": {
